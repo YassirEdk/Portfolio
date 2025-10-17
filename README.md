@@ -67,14 +67,23 @@ Ouvrir le projet dans le navigateur à l’adresse affichée (par défaut http:/
 📂 Structure du projet
 
 Portfolio/
+
 ├─ public/          # Images, GIFs, icônes
+
 ├─ src/             # Code source
+
 │  ├─ assets/       # Images et icônes
+
 │  ├─ components/   # Composants React réutilisables
+
 │  ├─ pages/        # Pages principales
+
 │  └─ App.tsx       # Composant principal
+
 ├─ vite.config.ts    # Configuration Vite
+
 ├─ package.json      # Dépendances et scripts
+
 └─ tailwind.config.ts# Configuration Tailwind CSS
 
 🤝 Contact
