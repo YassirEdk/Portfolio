@@ -16,10 +16,9 @@ Il est développé avec **React 18**, **Vite**, **TypeScript** et **Tailwind CSS
 
 ---
 
-## 🎬 Démo animée
+## 🎬 Démo 
 
-![Portfolio Demo](./demo.gif)  
-> *(Remplace `demo.gif` par un GIF ou une capture animée de ton portfolio dans le dossier `public`)*
+![Portfolio Demo](./demo.png)  
 
 ---
 
