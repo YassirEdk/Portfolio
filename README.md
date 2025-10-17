@@ -47,6 +47,7 @@ Il est développé avec **React 18**, **Vite**, **TypeScript** et **Tailwind CSS
 1. Cloner le dépôt :
 
 git clone https://github.com/YassirEdk/Portfolio.git
+
 cd Portfolio
 
 2. Installer les dépendances :
