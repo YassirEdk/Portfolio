@@ -53,13 +53,17 @@ cd Portfolio
 2. Installer les dépendances :
 
 npm install
- ou
+
+ou
+
 yarn install
 
 3. Lancer le serveur de développement :
 
 npm run dev
- ou
+
+ou
+
 yarn dev
 
 Ouvrir le projet dans le navigateur à l’adresse affichée (par défaut http://localhost:5173).
